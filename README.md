@@ -36,7 +36,7 @@ BreakLock is an engaging puzzle game that challenges players to unlock patterns 
 
 ## Play Online
 
-You can play BreakLock online by visiting [our website](https://breaklockgame.com).
+You can play BreakLock online by visiting [here](https://quicksilver-lab.github.io/BreakLock/).
 
 <p align="center">
 <img src="/assets/line.gif">             
