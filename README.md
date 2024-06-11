@@ -5,7 +5,7 @@
 </p>
 
 
-![BreakLock Logo](breaklock_logo.png)
+![BreakLock Demo](demo.png)
 
 <p align="center">
 <img src="/assets/line.gif">             
